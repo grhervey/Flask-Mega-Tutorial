@@ -1,0 +1,11 @@
+# Packages
+__pycache__
+.pyc
+
+# Installer logs
+pip-log.txt
+
+
+venv
+app.db
+microblog.log*
