@@ -9,3 +9,4 @@ Parts finished so far:
     Part 4: Database
     Part 5: User Logins
     Part 6: Profile Page and Avatars
+    Part 7: Error Handling
