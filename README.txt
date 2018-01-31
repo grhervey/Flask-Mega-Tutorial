@@ -10,3 +10,4 @@ Parts finished so far:
     Part 5: User Logins
     Part 6: Profile Page and Avatars
     Part 7: Error Handling
+    Part 8: Followers
