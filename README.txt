@@ -11,3 +11,4 @@ Parts finished so far:
     Part 6: Profile Page and Avatars
     Part 7: Error Handling
     Part 8: Followers
+    Part 9: Pagination
